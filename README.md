@@ -1,0 +1,2 @@
+# sys-acai
+Trabalho proposto na disciplina de Linguagens e Técnicas de Programação do curso de Ciência da Computação pela professora Marly com o objetivo de praticar as técnicas aprendidas em C e C++, bem como a manipulação de arquivos .txt e .dat. Além disso, o trabalho tem integração com a disciplina de Estrutura de Dados, onde o professor Marcos solicitou a geração de um relatório que é direcionado para um arquivo .txt salvo no computador.
