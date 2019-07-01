@@ -9,3 +9,10 @@
 *O programa só pode ser rodado na IDE MSDOS Turbo C++, ou similar. Tal obrigação se faz pelo uso de recursos de interface gráfica como o método "gotoxy(x, y)", que posiciona o cursor na matriz gráfica(tela do computador);
   
 *Para que o programa funcione corretamente, é preciso criar uma pasta com nome de "SACAI" no diretório "C:", pois é nesse caminho que o programa busca as bases de dados relacionadas a produtos e fornecedores. Caso as bases não existam, o programa automaticamente as cria.
+
+
+CAPTUTAS DE TELA
+
+![Captura home](screenshots/captura_home.png)
+
+![Captura menu](screenshots/captura_menu.png)
