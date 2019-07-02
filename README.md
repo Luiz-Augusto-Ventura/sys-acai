@@ -2,6 +2,7 @@
 
   Trabalho proposto na disciplina de Linguagens e Técnicas de Programação do curso de Ciência da Computação pela professora Marly com o objetivo de praticar as técnicas aprendidas em C e C++, bem como a manipulação de arquivos .txt e .dat. 
   Além disso, o trabalho tem integração com a disciplina de Estrutura de Dados, onde o professor Marcos solicitou a implementação de estruturas definidas e geração de um relatório que é direcionado para um arquivo .txt salvo no computador. A estrutura criada foi uma lista dinâmica que é construída a partir da base de dados .dat, onde cada elemento possui um ponteiro apontando para o próximo. 
+  O presente trabalho foi desenvolvido para subrir a demanda de uma pequena sorveteria de uma cidade do interior, onde era necessário fazer o controle de produtos e fornecedores de recursos. O sistema desenvolvido possibilita o cadastro, consulta, alteração e remoção de produtos e fornecedores, além da geração de relatórios. 
   
 
 !!! NOTAS IMPORTANTES !!!
